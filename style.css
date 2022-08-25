@@ -76,6 +76,14 @@ a{
     transition: all 0.3s ease;
     text-decoration: none;
 }
+.container{
+    display: flex;
+    margin: 80px;
+}
+.about{
+    width: 80%;
+    padding-left: 2%;
+}
 .boxs{
     display: flex;
 }
